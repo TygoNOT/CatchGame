@@ -1,0 +1,13 @@
+C:\Users\Tygo\Desktop\Introduction to Programming\Project\CatchGame\CatchGame\bin\Debug\CatchGame.exe.config
+C:\Users\Tygo\Desktop\Introduction to Programming\Project\CatchGame\CatchGame\bin\Debug\CatchGame.exe
+C:\Users\Tygo\Desktop\Introduction to Programming\Project\CatchGame\CatchGame\bin\Debug\CatchGame.pdb
+C:\Users\Tygo\Desktop\Introduction to Programming\Project\CatchGame\CatchGame\obj\Debug\CatchGame.csproj.AssemblyReference.cache
+C:\Users\Tygo\Desktop\Introduction to Programming\Project\CatchGame\CatchGame\obj\Debug\CatchGame.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tygo\Desktop\Introduction to Programming\Project\CatchGame\CatchGame\obj\Debug\CatchGame.Form1.resources
+C:\Users\Tygo\Desktop\Introduction to Programming\Project\CatchGame\CatchGame\obj\Debug\CatchGame.Properties.Resources.resources
+C:\Users\Tygo\Desktop\Introduction to Programming\Project\CatchGame\CatchGame\obj\Debug\CatchGame.csproj.GenerateResource.cache
+C:\Users\Tygo\Desktop\Introduction to Programming\Project\CatchGame\CatchGame\obj\Debug\CatchGame.csproj.CoreCompileInputs.cache
+C:\Users\Tygo\Desktop\Introduction to Programming\Project\CatchGame\CatchGame\obj\Debug\CatchGame.exe
+C:\Users\Tygo\Desktop\Introduction to Programming\Project\CatchGame\CatchGame\obj\Debug\CatchGame.pdb
+C:\Users\Tygo\Desktop\Introduction to Programming\Project\CatchGame\CatchGame\obj\Debug\CatchGame.StartMenu.resources
+C:\Users\Tygo\Desktop\Introduction to Programming\Project\CatchGame\CatchGame\obj\Debug\CatchGame.List_Player.resources
